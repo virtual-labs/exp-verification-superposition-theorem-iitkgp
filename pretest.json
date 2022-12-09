@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In superposition theorem, when we consider the effect of one voltage source, all the other voltage sources are ____________",
+      "answers": {
+        "a": "Sorted",
+        "b": "Opened",
+        "c": "Removed",
+        "d": "Undisturbed"
+      },
+      "explanations": {
+        "a": "You have chosen correct answer",
+        "b": "you have chosen wrong answer",
+        "c": "you have chosen wrong answer",
+        "d": "you have chosen wrong answer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " Superposition theorem does not work for ________",
+      "answers": {
+        "a": "Current",
+        "b": "Voltage",
+        "c": "Power",
+        "d": "All the above"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "you have chosen wrong answer",
+        "c": "Power across an element is not equal to the power across it due to all the other sources in the system. The power in an element is the product of the total voltage and the total current in that element.",
+        "d": "you have chosen wrong answer"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "  In superposition theorem, when we consider the effect of one voltage source, all the other current sources are ____________",
+      "answers": {
+        "a": "Sorted",
+        "b": "Opened",
+        "c": "Removed",
+        "d": "Undisturbed"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "you have chosen correct answer",
+        "c": "you have chosen wrong answer",
+        "d": "you have chosen wrong answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+
+
+  ]
+}
