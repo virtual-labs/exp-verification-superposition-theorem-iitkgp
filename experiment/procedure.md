@@ -1,8 +1,11 @@
 ### Procedure
 <p>
 <h2><span style="background-color: rgb(255, 255, 255); ">Circuit Diagram:</span></h2>
-<p><img alt="" src="images/pic4.JPG" height="335" width="712"></p>
-<p style="text-align:center">[Fig 1: Circuit diagram of experimental set-up for verification of Superposition theorem]</p>
+<div align="center">
+<img src="images/pic4.JPG" />
+
+***Fig.1 : Circuit diagram of experimental set-up for verification of Superposition theorem***
+</div>
 
 1. Connect the circuit as shown in the diagram, keeping the switches open and resistance at their maximum positions. 
 2. Set S<sub>1</sub> to position "aa" and S<sub>2</sub> to position "cc" respectively which means both the sources are energized. Note down the 
