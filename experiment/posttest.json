@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "	Find I<sub>1</sub> and V<sub>2</sub> , with (a) the source values as shown , (b) the source values divided by 2, and (c) the source values multiplied by -2 . Note the principle of proportionality applies in (b) and (c).<br/><p style=\"text-align:center\"><img src=\"images/sup1.jpg\" style=\"width:350px;height:200px\"></p>",
+      "question": "Find I<sub>1</sub> and V<sub>2</sub> , with (a) the source values as shown , (b) the source values divided by 2, and (c) the source values multiplied by -2 . Note the principle of proportionality applies in (b) and (c).<br/><p style=\"text-align:center\"><img src=\"images/sup1.jpg\" style=\"width:350px;height:200px\"></p>",
       "answers": {
         "a": "(a)3A,36V; (b)1A,18V; (c)-4A,-72V",
         "b": "(a)2A,36V; (b)1A,18V; (c)-4A,-72V",
