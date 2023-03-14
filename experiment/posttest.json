@@ -2,38 +2,159 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Find I<sub>1</sub> and V<sub>2</sub> , with (a) the source values as shown , (b) the source values divided by 2, and (c) the source values multiplied by -2 . Note the principle of proportionality applies in (b) and (c).<br/><p style=\"text-align:center\"><img src=\"images/sup1.jpg\" style=\"width:350px;height:200px\"></p>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "(a)3A,36V; (b)1A,18V; (c)-4A,-72V",
+        "b": "(a)2A,36V; (b)1A,18V; (c)-4A,-72V",
+        "c": "(a)5A,36V; (b)1A,20V; (c)-4A,-72V",
+        "d": "(a)3A,36V; (b)2A,18V; (c)-4A,-72V"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have chosen wrong answer",
+        "b": "you have chosen correct answer",
+        "c": "you have chosen wrong answer",
+        "d": "you have chosen wrong answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In the circuit the current through 5Ω resistor using the principle of superposition is<br/><p style=\"text-align:center\"><img src=\"images/sup3.jpg\" style=\"width:350px;height:200px\"></p>",
+      "answers": {
+        "a": "3",
+        "b": "2.5",
+        "c": "4",
+        "d": "2"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "you have chosen wrong answer",
+        "c": "you have chosen wrong answer",
+        "d": "you have chosen correct answer"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Find I in the circuit in figure below <br/><p style=\"text-align:center\"><img src=\"images/sup4.jpg\" style=\"width:350px;height:200px\"></p>",
+      "answers": {
+        "a": "1.2",
+        "b": "0",
+        "c": "2.2",
+        "d": "3.2"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "you have chosen correct answer",
+        "c": "you have chosen wrong answer",
+        "d": "you have chosen wrong answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Find V and I in the circuit given below.<br/><p style=\"text-align:center\"><img src=\"images/sup2.jpg\" style=\"width:350px;height:200px\"></p>",
+      "answers": {
+        "a": "8V, 3A",
+        "b": "7V, 1A",
+        "c": "9V, 2.5A",
+        "d": "12V, 3A"
+      },
+      "explanations": {
+        "a": "You have chosen correct answer",
+        "b": "you have chosen wrong answer",
+        "c": "you have chosen wrong answer",
+        "d": "you have chosen wrong answer"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In the circuit  the current through 5Ω resistor using the principle of superposition<br/><p style=\"text-align:center\"><img src=\"images/sup5.jpg\" style=\"width:350px;height:200px\"></p>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "2A",
+        "b": "5A",
+        "c": "3A",
+        "d": "6.5A"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have chosen correct answer",
+        "b": "you have chosen wrong answer",
+        "c": "you have chosen wrong answer",
+        "d": "you have chosen wrong answer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Find the current through j3Ω inductive reactance using the principle of Superposition theorem <br/><p style=\"text-align:center\"><img src=\"images/sup6.jpg\" style=\"width:350px;height:200px\"></p> ",
+      "answers": {
+        "a": "3.896∠19.44° A",
+        "b": "3.996∠19.44° A",
+        "c": "4.896∠19.44° A",
+        "d": "5.897∠19.44° A"
+      },
+      "explanations": {
+        "a": "You have chosen correct answer",
+        "b": "you have chosen wrong answer",
+        "c": "you have chosen wrong answer",
+        "d": "you have chosen wrong answer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A resistance of 10 Ω. is connected in series with two resistances each of 15 Ω. arranged in parallel. What resistance must be shunted across this parallel combination so that the total current shall be 1.5A with 20V applied? ",
+      "answers": {
+        "a": "10.5 Ω",
+        "b": "13.5 Ω",
+        "c": "12 Ω",
+        "d": "6 Ω"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "you have chosen wrong answer",
+        "c": "you have chosen wrong answer",
+        "d": "you have chosen correct answer"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A voltage of 200V is applied to a tapped resistor of 500 Ω. Find the resistance between two tapping points connected to a circuit needing 0.1A at 25V. Calculate the total power consumed.",
+      "answers": {
+        "a": "89 Ω , 93.5W",
+        "b": "39 Ω , 63.5W",
+        "c": "79 Ω , 83.5W",
+        "d": "49 Ω , 83.5W"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "you have chosen wrong answer",
+        "c": "you have chosen correct answer",
+        "d": "you have chosen wrong answer"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+
+    {
+      "question": "A current of 20 A flows through two ammeters A and B joined in series. Across A the P.d. is 0.2 V and across B it is 0.3 V. Find how the same current will divide between A and B when they are joined in parallel.",
+      "answers": {
+        "a": "12A , 8A",
+        "b": "13A , 7A",
+        "c": "15A , 5A",
+        "d": "8A , 12A"
+      },
+      "explanations": {
+        "a": "You have chosen correct answer",
+        "b": "you have chosen wrong answer",
+        "c": "you have chosen wrong answer",
+        "d": "you have chosen wrong answer"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
     }
+
   ]
 }
